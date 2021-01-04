@@ -288,6 +288,9 @@ blockquote p{
     margin-left: 2em;
     margin-right: 2em;
 }
+blockquote footer{
+color: #000000;
+}
 
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
