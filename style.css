@@ -798,6 +798,9 @@ h4 {
 .tc-black {
     color: black!important;
 }
+.tc-black p {
+    font-weight: bold!important;
+}
 
 
 .btn-atomic-tangerine {
