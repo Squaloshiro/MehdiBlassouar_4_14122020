@@ -376,6 +376,9 @@ color: #000000;
     position: relative;
     z-index: 2;
 }
+.acces:focus{
+    outline: solid!important;
+}
 
 @media (min-width: 768px) {
     .site-navigation {
